@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on creating a React Webpage Template
 - 🌱 I’m currently learning MERN Stack
-- 🤔 I’m looking for help with Poker Game
+- 🤔 I’m looking for any entry level software development job
 - 💬 Ask me about Full Stack Development
 - 📫 How to reach me: jaskaran.s.chahal@gmail.com
