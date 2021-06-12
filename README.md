@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on creating a Poker Game using MERN Stack
+- 🔭 I’m currently working on creating a React Webpage Template
 - 🌱 I’m currently learning MERN Stack
 - 🤔 I’m looking for help with Poker Game
 - 💬 Ask me about Full Stack Development
