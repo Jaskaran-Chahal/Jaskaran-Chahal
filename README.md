@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on creating a react webpage template
-- 🌱 I’m currently learning MERN Stack
-- 🤔 I’m looking for any entry level software development job
 - 💬 Ask me about Full Stack Development
 - 📫 How to reach me: jaskaran.s.chahal@gmail.com
